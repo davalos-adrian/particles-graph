@@ -1,0 +1,138 @@
+[
+     {
+          "id": "",
+          "origen": {
+               "x": 250,
+               "y": 10
+          },
+          "destino": {
+               "x": 10,
+               "y": 200
+          },
+          "color": {
+               "red": 12,
+               "green": 45,
+               "blue": 98
+          },
+          "velocidad": 0.0
+     },
+     {
+          "id": "",
+          "origen": {
+               "x": 250,
+               "y": 10
+          },
+          "destino": {
+               "x": 400,
+               "y": 200
+          },
+          "color": {
+               "red": 12,
+               "green": 200,
+               "blue": 98
+          },
+          "velocidad": 10.0
+     },
+     {
+          "id": "",
+          "origen": {
+               "x": 400,
+               "y": 200
+          },
+          "destino": {
+               "x": 400,
+               "y": 400
+          },
+          "color": {
+               "red": 120,
+               "green": 200,
+               "blue": 98
+          },
+          "velocidad": 10.0
+     },
+     {
+          "id": "",
+          "origen": {
+               "x": 10,
+               "y": 200
+          },
+          "destino": {
+               "x": 10,
+               "y": 400
+          },
+          "color": {
+               "red": 120,
+               "green": 200,
+               "blue": 8
+          },
+          "velocidad": 10.0
+     },
+     {
+          "id": "",
+          "origen": {
+               "x": 10,
+               "y": 400
+          },
+          "destino": {
+               "x": 400,
+               "y": 400
+          },
+          "color": {
+               "red": 100,
+               "green": 200,
+               "blue": 80
+          },
+          "velocidad": 10.0
+     },
+     {
+          "id": "",
+          "origen": {
+               "x": 10,
+               "y": 400
+          },
+          "destino": {
+               "x": 400,
+               "y": 200
+          },
+          "color": {
+               "red": 100,
+               "green": 0,
+               "blue": 0
+          },
+          "velocidad": 10.0
+     },
+     {
+          "id": "",
+          "origen": {
+               "x": 250,
+               "y": 10
+          },
+          "destino": {
+               "x": 400,
+               "y": 400
+          },
+          "color": {
+               "red": 100,
+               "green": 0,
+               "blue": 0
+          },
+          "velocidad": 10.0
+     },
+     {
+          "id": "",
+          "origen": {
+               "x": 250,
+               "y": 10
+          },
+          "destino": {
+               "x": 10,
+               "y": 400
+          },
+          "color": {
+               "red": 100,
+               "green": 0,
+               "blue": 0
+          },
+          "velocidad": 10.0
+     }
+]

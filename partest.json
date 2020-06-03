@@ -1,0 +1,223 @@
+[
+    {
+        "id": "1",
+        "origen": {
+            "x": 100,
+            "y": 100
+        },
+        "destino": {
+            "x": 50,
+            "y": 150
+        },
+        "velocidad": "10",
+        "color": {
+            "red": 50,
+            "green": 30,
+            "blue": 25
+        }
+    },
+    {
+        "id": "1",
+        "origen": {
+            "x": 100,
+            "y": 100
+        },
+        "destino": {
+            "x": 100,
+            "y": 150
+        },
+        "velocidad": "10",
+        "color": {
+            "red": 50,
+            "green": 130,
+            "blue": 25
+        }
+    },
+    {
+        "id": "1",
+        "origen": {
+            "x": 100,
+            "y": 100
+        },
+        "destino": {
+            "x": 150,
+            "y": 150
+        },
+        "velocidad": "10",
+        "color": {
+            "red": 50,
+            "green": 130,
+            "blue": 250
+        }
+    },
+    {
+        "id": "1",
+        "origen": {
+            "x": 50,
+            "y": 150
+        },
+        "destino": {
+            "x": 50,
+            "y": 200
+        },
+        "velocidad": "10",
+        "color": {
+            "red": 50,
+            "green": 130,
+            "blue": 250
+        }
+    },
+    {
+        "id": "1",
+        "origen": {
+            "x": 50,
+            "y": 200
+        },
+        "destino": {
+            "x": 50,
+            "y": 250
+        },
+        "velocidad": "10",
+        "color": {
+            "red": 50,
+            "green": 130,
+            "blue": 250
+        }
+    },
+    {
+        "id": "1",
+        "origen": {
+            "x": 100,
+            "y": 150
+        },
+        "destino": {
+            "x": 125,
+            "y": 175
+        },
+        "velocidad": "10",
+        "color": {
+            "red": 50,
+            "green": 130,
+            "blue": 250
+        }
+    },
+    {
+        "id": "1",
+        "origen": {
+            "x": 100,
+            "y": 150
+        },
+        "destino": {
+            "x": 75,
+            "y": 175
+        },
+        "velocidad": "10",
+        "color": {
+            "red": 50,
+            "green": 130,
+            "blue": 250
+        }
+    },
+    {
+        "id": "1",
+        "origen": {
+            "x": 75,
+            "y": 175
+        },
+        "destino": {
+            "x": 100,
+            "y": 250
+        },
+        "velocidad": "10",
+        "color": {
+            "red": 50,
+            "green": 130,
+            "blue": 250
+        }
+    },
+    {
+        "id": "1",
+        "origen": {
+            "x": 125,
+            "y": 175
+        },
+        "destino": {
+            "x": 100,
+            "y": 250
+        },
+        "velocidad": "10",
+        "color": {
+            "red": 50,
+            "green": 130,
+            "blue": 250
+        }
+    },
+    {
+        "id": "1",
+        "origen": {
+            "x": 150,
+            "y": 150
+        },
+        "destino": {
+            "x": 150,
+            "y": 200
+        },
+        "velocidad": "10",
+        "color": {
+            "red": 50,
+            "green": 130,
+            "blue": 250
+        }
+    },
+    {
+        "id": "1",
+        "origen": {
+            "x": 150,
+            "y": 200
+        },
+        "destino": {
+            "x": 150,
+            "y": 250
+        },
+        "velocidad": "10",
+        "color": {
+            "red": 50,
+            "green": 130,
+            "blue": 250
+        }
+    },
+    {
+        "id": "1",
+        "origen": {
+            "x": 150,
+            "y": 250
+        },
+        "destino": {
+            "x": 100,
+            "y": 250
+        },
+        "velocidad": "10",
+        "color": {
+            "red": 50,
+            "green": 130,
+            "blue": 250
+        }
+    },
+    {
+        "id": "1",
+        "origen": {
+            "x": 50,
+            "y": 250
+        },
+        "destino": {
+            "x": 100,
+            "y": 250
+        },
+        "velocidad": "10",
+        "color": {
+            "red": 50,
+            "green": 130,
+            "blue": 250
+        }
+    }
+]
